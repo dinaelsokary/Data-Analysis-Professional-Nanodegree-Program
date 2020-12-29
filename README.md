@@ -1,4 +1,4 @@
-# Data-Analysis-Professional-Nanodegree-Program
+# Data Analysis Professional Nanodegree Program
 
 ## Project 1: Explore US Bikeshare Data
 ### Bike Share Data
