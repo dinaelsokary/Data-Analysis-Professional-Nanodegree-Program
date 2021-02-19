@@ -106,3 +106,4 @@ Create a 250-word-minimum written report called act_report.pdf or act_report.htm
 Both of these documents can be created in separate Jupyter Notebooks using the Markdown functionality of Jupyter Notebooks, then downloading those notebooks as PDF files or HTML files (see image below). You might prefer to use a word processor like Google Docs or Microsoft Word, however.
 
 
+
